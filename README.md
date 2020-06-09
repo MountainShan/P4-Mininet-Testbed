@@ -1,15 +1,15 @@
 # P4-Mininet-Testbed
 ## Description:
-P4-Mininet-Testbed is a basic mininet topology program for building a customized P4 testbed. <br\>
+P4-Mininet-Testbed is a basic mininet topology program for building a customized P4 testbed.
 Statu: Developing
 
 ## Feature:
-GRPC:<br\>
-Write/Read tables<br\>
-Packet in event<br\>
-Packet out event<br\>
-Thrift<br\>
->> Write/Read register<br\>
+*GRPC:
+ *Write/Read tables
+ *Packet in event
+ *Packet out event
+*Thrift
+ *Write/Read register
 
 ## Update log:
 > 2020-06-09: Upload core library and sample code. 
