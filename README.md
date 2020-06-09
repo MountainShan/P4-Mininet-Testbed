@@ -4,12 +4,20 @@
 <p>Statu: Developing</p>
 
 ## Feature:
-* GRPC:
- * Write/Read tables
- * Packet in event
- * Packet out event
-* Thrift
- * Write/Read register
+<ul>
+<li>GRPC:
+	<ul>
+		<li>Write/Read tables</li>
+		<li>Packet in event</li>
+		<li>Packet out event</li>
+	</ul>
+</li>
+	<li> Thrift 
+		<ul> 
+			<li> Write/Read register </li>
+		</ul>
+	</li>
+</ul>
 
 ## Update log:
 > 2020-06-09: Upload core library and sample code. 
